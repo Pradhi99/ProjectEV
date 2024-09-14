@@ -10,7 +10,7 @@ Unit of Analysis: States in USA (Year)
 
 Dependent Variable (DV): Ownership percentage
 
-Independent Variable (IV): Increased charging station
+Independent Variable (IV): Increased charging stations
 
 Research question: What is the optimum number of EV charging stations for the EV and has it kept up with the growth of EV over the years since 2021? 
 Hypothesis: EV charging station growth lags EV sales growth since 2021?
