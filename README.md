@@ -12,5 +12,8 @@ Dependent Variable (DV): Ownership percentage
 
 Independent Variable (IV): Increased charging stations
 
-Research question: What is the optimum number of EV charging stations for the EV and has it kept up with the growth of EV over the years since 2021? 
-Hypothesis: EV charging station growth lags EV sales growth since 2021?
+Research question: How does the EV infrastructure corelates with socio-economic characteristics of the counties where EV owners reside?
+Note that socio-economic characteristics are a combination of social and economic factors such as age, financial, education, local policies etc. 
+
+Hypothesis: There is no correlation between the EV infrastructure with the socio-economic characteristics of the counties.
+
