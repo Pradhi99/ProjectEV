@@ -6,11 +6,11 @@ Data-Source 1: Source for Sales of plug-in electric vehicles from the website ht
 
 Data-Source 2: Charging Station Locator from website https://afdc.energy.gov/data_download?download[data][api]=alt_fuel_stations&download[data][timeframe]=historical
 
-Unit of Analysis: States in USA (Year) 
+Unit of Analysis: Counties in USA (Year) 
 
-Dependent Variable (DV): Ownership percentage
+Dependent Variable (DV): EV infrastructure
 
-Independent Variable (IV): Increased charging stations
+Independent Variable (IV): Socio-economic characteristics of the counties where EV owners reside
 
 Research question: How does the EV infrastructure corelates with socio-economic characteristics of the counties where EV owners reside?
 Note that socio-economic characteristics are a combination of social and economic factors such as age, financial, education, local policies etc. 
