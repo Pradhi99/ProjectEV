@@ -12,7 +12,7 @@ Dependent Variable (DV): EV infrastructure
 
 Independent Variable (IV): Socio-economic characteristics of the counties where EV owners reside
 
-Research question: How does the EV infrastructure corelates with socio-economic characteristics of the counties where EV owners reside?
+Research question: How does the EV infrastructure correlates with socio-economic characteristics of the counties where EV owners reside?
 Note that socio-economic characteristics are a combination of social and economic factors such as age, financial, education, local policies etc. 
 
 Hypothesis: There is no correlation between the EV infrastructure with the socio-economic characteristics of the counties.
