@@ -16,7 +16,7 @@ Unit of Analysis: Counties in USA (2020-2022)
 
 Dependent Variable (DV): DV: Charging Staton data
 
-Independent Variable (IV): Socio-economic characteristics of the counties where EV owners resides -EV population data, Per capita Income data, Population Estimate data, Unemployment data
+Independent Variable (IV): EV population data, Per capita Income data, Population Estimate data, Unemployment data
 
 RQ: How do county’s selected socio-economic variables - EV population, per capita income, population estimates, and unemployment rates – from 2020 to 2022 influence the distribution and availability of charging stations in various counties?
 
