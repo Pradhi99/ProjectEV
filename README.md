@@ -4,12 +4,13 @@ Link to the 5 data-sources https://drive.google.com/drive/folders/10Wj7LbFFNE3qc
 
 Data-Sources: 
 1. Charging Station data https://afdc.energy.gov/data_download?download[data][api]=alt_fuel_stations&download[data][timeframe]=historical
-2. Electric vehicles population data: https://catalog.data.gov/dataset/mva-electric-and-hybrid-vehicle-registrations-by-county-as-of-october-2020
-3. Source for Per Capita Income:
+2. Electric vehicles population data: https://www.atlasevhub.com/materials/state-ev-registration-data/#data
+   https://catalog.data.gov/dataset/mva-electric-and-hybrid-vehicle-registrations-by-county-as-of-october-2020
+4. Source for Per Capita Income:
 https://www.bea.gov/data/income-saving/personal-income-county-metro-and-other-areas
-4. Population Estimates data link: 
+5. Population Estimates data link: 
 https://www.ers.usda.gov/data-products/county-level-data-sets/county-level-data-sets-download-data/
-5. Source for Unemployment data: 
+6. Source for Unemployment data: 
 https://www.ers.usda.gov/data-products/county-level-data-sets/county-level-data-sets-download-data/
 
 Unit of Analysis: Counties in USA (2020-2022) 
