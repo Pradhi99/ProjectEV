@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 =======
 Assignment: Project EV
 
@@ -25,4 +25,4 @@ RQ: How do county’s selected socio-economic variables - EV population, per cap
 
 Hypothesis: Higher EV population, increased per capita income, larger population estimates and lower unemployment rate are positively associated with a greater distribution and availability of charging stations, across various counties from 2020 to 2022.
 
->>>>>>> d92e966e340ef2f562fe139d4afb3689903360b1
+
